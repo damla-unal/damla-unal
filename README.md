@@ -9,7 +9,7 @@
 </div>
 
 ---
- - 🔭 I’m currently working with **Golang, React.ts** as a full-stack developer 
+ - 🔭 I’m currently working with **Golang, React.ts**
  - 📫 How to reach me: damlaunal.cs@gmail.com
  
 <h3 align="left">Connect with me : <a href="https://linkedin.com/in/damla-nur-unal" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="damla-nur-unal" height="30" width="30" /></a>
